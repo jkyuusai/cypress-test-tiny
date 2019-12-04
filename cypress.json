@@ -1,1 +1,5 @@
-{}
+{
+  "baseUrl": "http://clinic.conversa.local/",
+  "watchForFileChanges": false,
+  "chromeWebSecurity": false
+}
